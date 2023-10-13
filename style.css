@@ -129,3 +129,47 @@ body{
   background: #a30707;
   text-transform: uppercase;
 }
+
+@media screen and (max-width: 660px) {
+    body {
+      justify-content: flex-start; /* Adjust alignment for smaller screens */
+    }
+  
+    .wrapper {
+      width: 100%; /* Expand the wrapper to the full width of the screen */
+      height: auto; /* Let the height adjust to content */
+    }
+  
+    .wrapper.active {
+      height: auto; /* Let the height adjust to content */
+    }
+  
+    .upload-box {
+      border-radius: 0; /* Remove border radius for a cleaner look */
+      border: none; /* Remove the border for a cleaner look */
+    }
+  
+    .upload-box p {
+      font-size: 1rem; /* Slightly larger font size */
+      margin-top: 15px; /* A bit more spacing */
+    }
+  
+    .sizes .column,
+    .checkboxes .column {
+      width: 100%; /* Make columns take full width */
+    }
+  
+    .row .column label {
+      font-size: 1rem; /* Slightly larger font size */
+    }
+  
+    .sizes .column input,
+    .content .download-btn {
+      font-size: 1rem; /* Slightly larger font size */
+    }
+  
+    .content .download-btn {
+      margin: 20px 0 10px; /* Adjust margin for better spacing */
+    }
+  }
+  
