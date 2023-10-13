@@ -52,7 +52,6 @@ Are you ready to optimize and enhance your images effortlessly? Look no further 
 
 🌈 Dive into my world of creativity and innovation!
 
-
 ---
 
 Let your creativity shine! 🚀
