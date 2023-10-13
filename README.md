@@ -43,9 +43,6 @@ Are you ready to optimize and enhance your images effortlessly? Look no further 
 
 ✨ Our web application is designed to work seamlessly on modern web browsers that support HTML, CSS, and JavaScript. Make sure you're using a compatible browser to make the most of this tool.
 
-
-🌈 Dive into my world of creativity and innovation!
-
 ## License
 
 ⚖️ This project is released under the MIT License - for all the legal nitty-gritty, check out the [LICENSE](LICENSE) file.
