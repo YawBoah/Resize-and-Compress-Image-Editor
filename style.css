@@ -97,7 +97,7 @@ body{
 
 .sizes .column input:focus{
   padding: 0 14px;
-  border: 2px solid #927DFC;
+  border: 2px solid #cc1212;
 }
 
 .content .checkboxes{
@@ -113,7 +113,7 @@ body{
   width: 17px;
   height: 17px;
   margin-right: 9px;
-  accent-color: #927DFC;
+  accent-color: #cf0808;
 }
 
 .content .download-btn{
@@ -126,6 +126,6 @@ body{
   border-radius: 5px;
   padding: 15px 0;
   margin: 30px 0 10px;
-  background: #927DFC;
+  background: #a30707;
   text-transform: uppercase;
 }
