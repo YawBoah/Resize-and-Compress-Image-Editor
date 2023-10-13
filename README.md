@@ -53,6 +53,9 @@ Are you ready to optimize and enhance your images effortlessly? Look no further 
 
 💖 Thank you for choosing Resize and Compress Images Editor for your image editing adventures! Enjoy every moment of it.
 
+🌈 Dive into my world of creativity and innovation!
+
+
 ---
 
 Let your creativity shine! 🚀
