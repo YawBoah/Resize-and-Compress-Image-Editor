@@ -7,6 +7,9 @@ Are you ready to optimize and enhance your images effortlessly? Look no further 
 ![Screenshot 2023-10-13 034706](https://github.com/YawBoah/Resize-and-Compress-Image-Editor/assets/126890146/80751ada-d6b7-403e-aa79-f34a291bf800)
 
 
+![Screenshot 2023-10-13 034722](https://github.com/YawBoah/Resize-and-Compress-Image-Editor/assets/126890146/0ded81fd-b0fc-4d20-bec2-19c386b72343)
+
+
 ## Features
 
 💡 **Image Magic**: With our tool, you can perform image resizing, maintain aspect ratios, and reduce image quality, all in one place.
