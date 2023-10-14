@@ -3,7 +3,7 @@
 🌟 Welcome to the Resize and Compress Images Editor! 🌟
 
 Are you ready to optimize and enhance your images effortlessly? Look no further - our web application allows you to resize, maintain aspect ratios, and reduce image quality with a breeze. Get ready to make your images web-ready and picture-perfect! 🖼️
-Click[here](https://yawboah.github.io/Gradient-Color-Generator/)
+Click[here](https://yawboah.github.io/Resize-and-Compress-Image-Editor/)
 
 ![Screenshot 2023-10-13 034706](https://github.com/YawBoah/Resize-and-Compress-Image-Editor/assets/126890146/80751ada-d6b7-403e-aa79-f34a291bf800)
 
